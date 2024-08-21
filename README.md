@@ -8,10 +8,14 @@ This project is an online library management system designed to streamline the p
 - **Administrator Interface**: Enables administrators to manage both user and librarian accounts.
 A standout feature of this project is the two-level login system that enhances security. Users first log in using traditional email and password authentication. Following this, they must pass a second authentication level involving face recognition, which utilizes the computer's or cell phone's camera.
 
+
+
 ### Features
+
 - **Two-Level Authentication:**
   - **Level 1**: Traditional login with email and password.
   - **Level 2**: Face recognition using AI for enhanced security.
+    
 - **User Management**: Users can create accounts to borrow books.
 - **Book Discovery**: Users can explore a catalog of books through an attractive, user-friendly interface.
 - **Book Search**: Users can search for books and view detailed information about each book.
@@ -20,8 +24,11 @@ A standout feature of this project is the two-level login system that enhances s
   - Manage book inventory.
   - Assist users with their requests.
   - Communicate with users for support and inquiries.
+  - 
 - **Admin Controls**: Administrators can manage both user and librarian accounts.
 - **Data Management**: Advanced data cleaning and feature extraction using Python.
+
+
 ### Technologies Used
 - **Backend**: Standard PHP
 - **Database**: SQL
