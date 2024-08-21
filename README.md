@@ -10,16 +10,16 @@ A standout feature of this project is the two-level login system that enhances s
 
 ### Features
 - **Two-Level Authentication:**
-- - **Level 1**: Traditional login with email and password.
-- - **Level 2**: Face recognition using AI for enhanced security.
+  - **Level 1**: Traditional login with email and password.
+  - **Level 2**: Face recognition using AI for enhanced security.
 - **User Management**: Users can create accounts to borrow books.
 - **Book Discovery**: Users can explore a catalog of books through an attractive, user-friendly interface.
 - **Book Search**: Users can search for books and view detailed information about each book.
 - **User Profile**: Users have profiles where they can view their borrowing history and communicate with librarians.
 - **Librarian Management:**
-- - Manage book inventory.
-- - Assist users with their requests.
-- - Communicate with users for support and inquiries.
+  - Manage book inventory.
+  - Assist users with their requests.
+  - Communicate with users for support and inquiries.
 - **Admin Controls**: Administrators can manage both user and librarian accounts.
 - **Data Management**: Advanced data cleaning and feature extraction using Python.
 ### Technologies Used
