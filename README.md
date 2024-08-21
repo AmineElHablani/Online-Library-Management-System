@@ -24,7 +24,7 @@ A standout feature of this project is the two-level login system that enhances s
   - Manage book inventory.
   - Assist users with their requests.
   - Communicate with users for support and inquiries.
-  - 
+    
 - **Admin Controls**: Administrators can manage both user and librarian accounts.
 - **Data Management**: Advanced data cleaning and feature extraction using Python.
 
